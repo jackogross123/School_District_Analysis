@@ -16,13 +16,17 @@ The academic board for the PyCity School District is under the impression that s
 
 ### How is the district summary affected?
 
-[district_summary_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/district_summary_OG.png)
-[district_summary_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/district_summary_NEW.png)
+![district_summary_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/district_summary_OG.png)
+![district_summary_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/district_summary_NEW.png)
 
 ### How is the school summary affected?
 
-[per_school_summary_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/per_school_summary_OG.png)
-[per_school_summary_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/per_school_summary_NEW.png)
+![per_school_summary_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/per_school_summary_OG.png)
+![per_school_summary_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/per_school_summary_NEW.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+![Thomas_HS_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/Thomas_HS_OG.png)
+![Thomas_HS_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/Thomas_HS_NEW.png)
+
 ## Summary
