@@ -22,6 +22,9 @@ Original Analysis
 New Analysis
 ![district_summary_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/district_summary_NEW.png)
 
+#### Findings
+There were not many take aways from replacing the 9th grade scores with Nans. As it can be seen from the two dataframes, there was only a slight decrease in the percentage of students passing in the new analysis. Average math scores stayed the same and average reading scores only dropped by 0.2.
+
 ### How is the school summary affected?
 
 Original Analysis
@@ -30,6 +33,9 @@ Original Analysis
 New Analysis
 ![per_school_summary_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/per_school_summary_NEW.png)
 
+#### Findings
+Because of our code, the only school that was affected by the new analysis was Thomas High School. Since only the 9th graders at Thomas High School were accused of academic misconduct, they're the only section that is altered.  
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Original Analysis
@@ -37,6 +43,9 @@ Original Analysis
 
 New Analysis
 ![Thomas_HS_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/Thomas_HS_NEW.png)
+
+#### Findings
+As it can be seen from the these two graphics, the Thomas High School summaries were dramatically changed by replacing the 9th grade scores with NaNs. While average math and reading scores did not fluctuate greatly, the % of students passing dropped significantly. The % of students passing dropped from 90.94% to 65.07%. At the same time % passing math and % passing reading dropped from 93.27% to 66.91% and 97.3% to 69.66%.
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
