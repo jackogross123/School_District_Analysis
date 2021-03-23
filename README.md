@@ -74,6 +74,9 @@ Scores by school spending original analysis
 Scores by school spending new analysis
 ![school_spending_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_spending_NEW.png)
 
+##### Findings
+One analysis that changed from the original analysis is the student scores by school spending dataframe. As it can be seen from the two graphics, the only row that was changed is the $630-644 spending row. This is because Thomas High School falls into that spending bin. Overall passing dropped from 63% to 56% and math and reading passing percentages dropped from 73% to 67% and 84% to 77%.
+
 #### Scores by school size
 
 Scores by school size original analysis
@@ -81,6 +84,9 @@ Scores by school size original analysis
 
 Scores by school size new analysis
 ![School_size_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_size_NWQ.png)
+
+##### Findings
+Scores by school size only changed for the medium size school bin. The % of overall passing students dropped from 90% to 85%. 
 
 #### Scores by school types
 
@@ -90,4 +96,8 @@ Scores by school type original analysis
 Scores by school type new analysis
 ![School_type_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_type_NEW.png)
 
+##### Findings
+Scoes by school type were affected in the Charter column. Overall passing percentage for charter schools dropped from 90% to 87%.
+
 ## Summary
+Once the scores were replaced with NaNs the percentage of passing students in math, reading, and overall all dropped considerably. The score averages remained intact. This took Thomas High School down into the bottom five of school rankings. At the same time, this also brought the passing averages for charter schools, medium size schools, and $630-644 spending schools down. This is because Thomas High School has all of those characteristics.
