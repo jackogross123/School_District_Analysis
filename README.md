@@ -38,4 +38,11 @@ Original Analysis
 New Analysis
 ![Thomas_HS_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/Thomas_HS_NEW.png)
 
+### How does replacing the ninth-grade scores affect the following:
+#### Math and reading scores by grade
+#### Scores by school spending
+#### Scores by school size
+#### Scores by school types
+
+
 ## Summary
