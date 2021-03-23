@@ -50,10 +50,26 @@ As it can be seen from the these two graphics, the Thomas High School summaries 
 ### How does replacing the ninth-grade scores affect the following:
 
 #### Math and reading scores by grade
-![Math_scores_by_grade_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/math_scores_by_grade_OG.png) ![Reading_scores_by_grade_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_OG.png)
+
+![Math_scores_by_grade_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/math_scores_by_grade_OG.png)
+![Reading_scores_by_grade_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_OG.png)
+
+![Math_scores_by_grade_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/Math_scores_by_grade_NEW.png)
+![Reading_scores_by_grade_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/Reading_scores_by_grade_NEW.png)
+
 #### Scores by school spending
+
+![school_spending_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/school_spending_OG.png)
+![school_spending_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_spending_NEW.png)
+
 #### Scores by school size
+
+![School_size_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_size_OG.png)
+![School_size_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_size_NWQ.png)
+
 #### Scores by school types
 
+![School_type_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_type_OG.png)
+![School_type_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_type_NEW.png)
 
 ## Summary
