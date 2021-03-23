@@ -10,5 +10,19 @@ The academic board for the PyCity School District is under the impression that s
 - The scores by school spending per student, by school size, and by school type
 
 ## Results
+### Analyis Resource 
+- Data Sources: [schools_complete](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/schools_complete.csv), [students_complete](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/students_complete.csv), [missing_grades](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/missing_grades.csv), and [clean_students_complete](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/clean_students_complete.csv).
+- Software: Juptyer Notebook 6.1.4, Python 3.7.6
 
+### How is the district summary affected?
+
+[district_summary_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/district_summary_OG.png)
+[district_summary_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/district_summary_NEW.png)
+
+### How is the school summary affected?
+
+[per_school_summary_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/per_school_summary_OG.png)
+[per_school_summary_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/per_school_summary_NEW.png)
+
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ## Summary
