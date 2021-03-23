@@ -51,25 +51,43 @@ As it can be seen from the these two graphics, the Thomas High School summaries 
 
 #### Math and reading scores by grade
 
+Math scores by grade original analysis
 ![Math_scores_by_grade_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/math_scores_by_grade_OG.png)
+
+Reading scores by grade original analysis
 ![Reading_scores_by_grade_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_OG.png)
 
+Math scores by grade new analysis
 ![Math_scores_by_grade_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/Math_scores_by_grade_NEW.png)
+
+Reading scores by grade new analysis
 ![Reading_scores_by_grade_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/Reading_scores_by_grade_NEW.png)
+
+##### Findings
+As it can be seen from the 4 graphics, the only thing that changed from the two analyses is that the math and reading scores from Thomas High School 9th graders was replaced with NaNs values. This is because of our filtering of the students. 
 
 #### Scores by school spending
 
+Scores by school spending original analysis
 ![school_spending_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/school_spending_OG.png)
+
+Scores by school spending new analysis
 ![school_spending_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_spending_NEW.png)
 
 #### Scores by school size
 
+Scores by school size original analysis
 ![School_size_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_size_OG.png)
+
+Scores by school size new analysis
 ![School_size_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_size_NWQ.png)
 
 #### Scores by school types
 
+Scores by school type original analysis
 ![School_type_OG](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_type_OG.png)
+
+Scores by school type new analysis
 ![School_type_NEW](https://github.com/jackogross123/School_District_Analysis/blob/main/Resources/School_type_NEW.png)
 
 ## Summary
